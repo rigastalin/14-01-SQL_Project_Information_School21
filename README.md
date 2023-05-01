@@ -9,3 +9,7 @@ To create my database about School 21, I first needed to determine which tables 
 
 Once I had set up my database, I began writing procedures and functions to retrieve information from it. 
 To modify the data in my database, I wrote procedures and triggers that updated or deleted information as needed. Overall, the success of my database project depended on careful planning of its structure, as well as clear and well-documented procedures and functions to effectively retrieve and modify the data.
+
+<p style="text-align:center">
+  <img src="./misc/images/image.png" alt="Tables dependesies">
+</p>
